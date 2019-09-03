@@ -1,0 +1,16 @@
+{
+    "name": "frontalnugity/csv",
+    "description": "A simple CSV wrapper for working with CSV data and Laravel migrations",
+    "type": "library",
+    "require": {
+        "laravel/framework": "^6.0",
+        "crockett/csv-seeder": "^1.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ted Nugent",
+            "email": "nuge@geniusfactor.io"
+        }
+    ]
+}
